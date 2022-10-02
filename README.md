@@ -1,4 +1,4 @@
-# QUEEN-BIXBY-MD-PRO
+# ❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
@@ -9,7 +9,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://abuser1.yolasite.com)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐐𝐔𝐄𝐄𝐍+𝐁𝐈𝐗𝐁𝐘+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐃𝐀𝐑𝐂𝐊+𝐀𝐋𝐏𝐇𝐀+𝐗𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝙿𝚁𝙸𝙽𝙲𝙴𝚂+𝙅𝙆+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐃𝐀𝐑𝐂𝐊+𝙎𝙃𝘼𝙂𝙂𝙔+𝐗𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 
@@ -19,13 +19,13 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/1a0137d2065a822e65f92.jpg" alt="GIF" width="300" height="270"/>
+<img src="[https://telegra.ph/file/1a0137d2065a822e65f92.jpg]" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="darkalphaxteam" src="https://img.shields.io/badge/darkalpha-xteam-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="darkshaggy" src="https://img.shields.io/badge/darkalpha-xteam-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
