@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              ❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,21 +19,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.owner = ['94727785006']
+global.premium = ['94727785006']
+global.ownernomer = '94727785006'
+global.ownername = '❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞'
+global.botname = '❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞'
+global.footer = '❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞'
+global.ig = 'https://github.com/redlion2007'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.sc = 'https://github.com/redlion2007'
+global.myweb = 'https://github.com/redlion2007'
+global.packname = '❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞'
+global.author = 'ॐ⃞𝐌ᴬෆි⃝𝚢αᵂ͢ᴱ᳀ශැගීහ්🌙⃯™᭄'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.prefa = ['','!','.','🙂','🙄','🪄']
+global.sp = '💕'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
