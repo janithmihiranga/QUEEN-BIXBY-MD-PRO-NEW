@@ -52,13 +52,10 @@
 
 4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
 
-5. Click the url showing below to copy deploy template
+5. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+</div>
 
-```
-
-https://heroku.com/deploy
-
-``` 
+ 
 
 6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
 
